@@ -30,13 +30,27 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Configuration Steps</h2>
 
+<h3>Step 1: Open osTicket and Log In
+
+  - Log in to osTicket using the credentials you made during the installation tutorial
+  - Make sure you are in the Admin panel (check the top-right of the screen to see which panel you are in)
+	- If it says "Agent," you are in the Admin panel
+- Select the Agent tab > Roles > Add New Role
+	- Name: Supreme Admin
+	- Select Permissions tab and check every box under the "Tickets," "Tasks," and "Knowledgebase" sections
+- Select Add Role
+
 <p>
 <img src="https://i.imgur.com/BzkPqCs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+
+  <h3>Step 2: Configure Departments</h3>
+
+- Ensure you are still in the Admin panel
+- Select the Agent tab > Departments > Add New Department 
+- Name: System Administrators
+- Select Create Department 
 
 <p>
 <img src="https://i.imgur.com/o3kwRqw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
