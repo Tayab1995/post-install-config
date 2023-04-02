@@ -69,9 +69,13 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img src="https://i.imgur.com/Tm9JdI8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+
+
+<h3>Step 4: Allow Anyone to Create Tickets</h3>
+
+- Select Settings > User Settings
+- Make sure the following box is unchecked: 
+- Registration Required: Require registration and login to create tickets 	
 
 <p>
 <img src="https://i.imgur.com/itXbB6R.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
