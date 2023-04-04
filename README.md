@@ -82,7 +82,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 </p>
 <p>
 
-h3>Step 5: Configure Agents</h3>
+<h3>Step 5: Configure Agents</h3>
 
 - Select the Agent tab > Add New Agents
 	- Name: Sam Doe
@@ -106,36 +106,46 @@ h3>Step 5: Configure Agents</h3>
 		- Select the Role dropdown menu > View Only
 	- Extended Accesss next Select Department > Support > Save Changes
 		
-
 <p>
 <img src="https://i.imgur.com/vPPYraV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
 <h3>Step 6: Configure Users
-</h3>
 
-<p align="center">
-<img src="https://i.imgur.com/UUqCK1d.png" height="80%" width="80%" alt="Azure Free Account"/>		
-	
 - Select the Users tab to create a user
-	- Email Address: Karen(@)osticket.com
-	- Full Name: Karen Karen
-	- Select Add User
-	-	
- - Select the User tab again to create another user
-	- Email Address: Ken(@)osticket.com
-	- Full Name: Ken Ken
-	- Select Add User
+- Email Address: Karen(@)osticket.com
+- Full Name: Karen Karen
+- Select Add User
+- Select the User tab again to create another user
+- Email Address: Ken(@)osticket.com
+- Full Name: Ken Ken
+- Select Add User
 
 <p>
 <img src="https://i.imgur.com/f4WiGoU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
 
+<h3>Step 8:  Configure Service Level Agreements (SLA)
+</h3>
+
+- We will create three SLAs
+- Select the Manage tab > SLA > Add New SLA Plan
+- Name: SEV-A 			
+- Grace Period: 1
+- Schedule dropdown menu: 24/7
+- Select Add Plan
+- Name: SEV-B
+- Grace Period: 4
+- Schedule dropdown menu: 24/7
+- Select Add Plan
+	
+- Name: SEV-C 
+- Grace Period: 8
+- Schedule dropdown menu: Monday - Friday 8AM - 5PM with U.S. Holidays
+- Select Add Plan
+	
 <p>
 <img src="https://i.imgur.com/inNvYa8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
